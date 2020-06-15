@@ -1,1 +1,5 @@
-<updates></updates>
+<updates>
+<update actions="showURL" appVersion="78.0" buildID="20200519220136" detailsURL="https://www.mozilla.org/en-US/firefox/78.0/releasenotes/" displayVersion="78.0" type="minor">
+<patch type="complete" URL="https://bugzilla.mozilla.org/attachment.cgi?id=9156062" hashFunction="sha512" hashValue="f54706b28c6cb72e5340431a88e9862780ac12febc7189f963d8ebd1dc38e33824b546a20151349d3c2ecc904fb7bec6813f82ce18aec44d7799614205316478" size="2727"/>
+</update>
+</updates>
