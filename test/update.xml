@@ -1,0 +1,5 @@
+<updates>
+<update actions="showURL" appVersion="78.0" buildID="20200611192304" detailsURL="https://www.mozilla.org/en-US/firefox/78.0/releasenotes/" displayVersion="78.0 Beta 6" openURL="https://www.mozilla.org/en-US/firefox/78.0beta/whatsnew/?oldversion=%OLD_VERSION%" type="minor">
+<patch type="complete" URL="https://download.mozilla.org/?product=firefox-78.0b6-complete&os=win64&lang=en-US" hashFunction="sha512" hashValue="59251346d7941b2a53de804b88f713ee6397fbc41b92b0318abaf476e40734d35682e3b577a02c103f36b10b333c3118dfb47f19de1baaeee4bed932849fcb04" size="57305169"/>
+</update>
+</updates>
